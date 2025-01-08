@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FuncoesString/FuncoesString.iml" filepath="$PROJECT_DIR$/FuncoesString/FuncoesString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cursoJavaLogica.iml" filepath="$PROJECT_DIR$/cursoJavaLogica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosEstruturaFor/exerciciosEstruturaFor.iml" filepath="$PROJECT_DIR$/exerciciosEstruturaFor/exerciciosEstruturaFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosEstruturaSequencial/exerciciosEstruturaSequencial.iml" filepath="$PROJECT_DIR$/exerciciosEstruturaSequencial/exerciciosEstruturaSequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosEstruturaWhile/exerciciosEstruturaWhile.iml" filepath="$PROJECT_DIR$/exerciciosEstruturaWhile/exerciciosEstruturaWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosEstrututaCondicional/exerciciosEstrututaCondicional.iml" filepath="$PROJECT_DIR$/exerciciosEstrututaCondicional/exerciciosEstrututaCondicional.iml" />
+    </modules>
+  </component>
+</project>
