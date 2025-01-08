@@ -1,13 +1,13 @@
 
-# Exercicios de Logica de programação
+# Exercicios de Lógica de programação
 
-Esse repositorio, contém alguns exercicios realizados durante o curso de Lógica de Programação em Java do professor Nélio Alves da Udemy.
+Esse repositório, contém alguns exercicios realizados durante o curso de Lógica de Programação em Java do professor Nélio Alves da Udemy.
 
 ## Temas abordados
 
 - Introdução e história do Java
-- Estrutura Condicionais
-- Estrutura Sequencial
-- Estrutura de Repetição
+- Estruturas Condicionais
+- Estruturas Sequencial
+- Estruturas de Repetição
 - Introdução a POO
 
